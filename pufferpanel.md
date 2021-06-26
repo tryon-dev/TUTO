@@ -87,7 +87,7 @@ Démarrage du panneau :
 systemctl start pufferpanel
 ```
 
-
+Et Voici les fichier de configuration pour nginx et apache
 
 **Nginx**
 

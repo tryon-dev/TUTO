@@ -6,7 +6,7 @@ Voici mes tuto
 
 
 
-- * #### [Comment installer pufferpanel sur un vps ou un serveur dedier😉](./pufferpanel)
+- [Comment installer pufferpanel sur un vps ou un serveur dedier😉](./pufferpanel)
 
   
 
